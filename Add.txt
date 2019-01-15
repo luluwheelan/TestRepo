@@ -1,6 +1,5 @@
 add file
 
-Change from Github
-Change from laptop
+Edit this file from new branch
 
 Make change from laptop
